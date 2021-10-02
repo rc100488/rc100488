@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rc100488
+- 👋 Hi, I’m @rahul_chauhan
 - 👀 I’m interested in working on Data 
 - 🌱 I’m currently learning Data Scintist
 - 💞️ I’m looking to collaborate on Machine Lerning Projects
